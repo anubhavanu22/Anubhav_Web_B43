@@ -1,0 +1,27 @@
+.hmcol1{
+  display:grid;
+  grid-template-columns: 300px 600px 300px;  
+}
+.r1c1{
+    width:200px;
+    height:200px;
+    background-color:whitesmoke;
+}
+
+.r2c1{
+    width:200px;
+    height: 70px;
+    background-color:whitesmoke;
+    font-size: small;
+}
+.r4c1{
+    width: 200px;
+    height: 150px;
+    background-color: whitesmoke;
+    font-size: medium;
+}
+.r1c2{
+    width:500px;
+    height:80px;
+    background-color: whitesmoke;
+}
